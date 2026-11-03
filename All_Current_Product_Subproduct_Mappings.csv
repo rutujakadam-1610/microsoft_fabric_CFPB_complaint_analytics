@@ -1,0 +1,98 @@
+﻿Original product,Original sub-product,Product status,Standardized product,Sub-product status,Standardized sub-product,Source rows
+Bank account or service,(CD) Certificate of deposit,Changed,Checking or savings account,Changed,CD (Certificate of Deposit),"3,417"
+Bank account or service,Cashing a check without an account,Same,Bank account or service,Same,Cashing a check without an account,625
+Bank account or service,Checking account,Changed,Checking or savings account,Same,Checking account,"59,045"
+Bank account or service,Other bank product/service,Changed,Checking or savings account,Changed,Other banking product or service,"17,826"
+Bank account or service,Savings account,Changed,Checking or savings account,Same,Savings account,"5,294"
+Checking or savings account,CD (Certificate of Deposit),Same,Checking or savings account,Same,CD (Certificate of Deposit),268
+Checking or savings account,Checking account,Same,Checking or savings account,Same,Checking account,"7,454"
+Checking or savings account,Other banking product or service,Same,Checking or savings account,Same,Other banking product or service,"1,639"
+Checking or savings account,Personal line of credit,Same,Checking or savings account,Same,Personal line of credit,7
+Checking or savings account,Savings account,Same,Checking or savings account,Same,Savings account,579
+Consumer Loan,Installment loan,Changed,"Payday loan, title loan, or personal loan",Same,Installment loan,"8,704"
+Consumer Loan,Pawn loan,Changed,"Payday loan, title loan, or personal loan",Same,Pawn loan,94
+Consumer Loan,Personal line of credit,Changed,"Payday loan, title loan, or personal loan",Same,Personal line of credit,"1,824"
+Consumer Loan,Title loan,Changed,"Payday loan, title loan, or personal loan",Same,Title loan,547
+Consumer Loan,Vehicle lease,Changed,Vehicle loan or lease,Changed,Lease,"2,657"
+Consumer Loan,Vehicle loan,Changed,Vehicle loan or lease,Changed,Loan,"17,782"
+Credit card,NULL (missing),Changed,Credit card or prepaid card,Same,NULL (missing),"89,190"
+Credit card or prepaid card,General-purpose credit card or charge card,Same,Credit card or prepaid card,Same,General-purpose credit card or charge card,"9,225"
+Credit card or prepaid card,General-purpose prepaid card,Same,Credit card or prepaid card,Same,General-purpose prepaid card,418
+Credit card or prepaid card,Gift card,Same,Credit card or prepaid card,Same,Gift card,51
+Credit card or prepaid card,Government benefit card,Same,Credit card or prepaid card,Same,Government benefit card,147
+Credit card or prepaid card,Payroll card,Same,Credit card or prepaid card,Same,Payroll card,33
+Credit card or prepaid card,Store credit card,Same,Credit card or prepaid card,Same,Store credit card,"2,047"
+Credit reporting,NULL (missing),Changed,"Credit reporting, credit repair services, or other personal consumer reports",Same,NULL (missing),"140,424"
+"Credit reporting, credit repair services, or other personal consumer reports",Credit repair services,Same,"Credit reporting, credit repair services, or other personal consumer reports",Same,Credit repair services,211
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Same,"Credit reporting, credit repair services, or other personal consumer reports",Same,Credit reporting,"57,906"
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Same,"Credit reporting, credit repair services, or other personal consumer reports",Same,Other personal consumer report,"1,069"
+Debt collection,Auto,Same,Debt collection,Changed,Auto debt,"3,755"
+Debt collection,Auto debt,Same,Debt collection,Same,Auto debt,805
+Debt collection,Credit card,Same,Debt collection,Changed,Credit card debt,"28,703"
+Debt collection,Credit card debt,Same,Debt collection,Same,Credit card debt,"4,541"
+Debt collection,Federal student loan,Same,Debt collection,Changed,Federal student loan debt,"2,476"
+Debt collection,Federal student loan debt,Same,Debt collection,Same,Federal student loan debt,491
+Debt collection,I do not know,Same,Debt collection,Same,I do not know,"34,773"
+Debt collection,Medical,Same,Debt collection,Changed,Medical debt,"21,211"
+Debt collection,Medical debt,Same,Debt collection,Same,Medical debt,"4,313"
+Debt collection,Mortgage,Same,Debt collection,Changed,Mortgage debt,"4,807"
+Debt collection,Mortgage debt,Same,Debt collection,Same,Mortgage debt,766
+Debt collection,Non-federal student loan,Same,Debt collection,Changed,Private student loan debt,"2,883"
+Debt collection,"Other (i.e. phone, health club, etc.)",Same,Debt collection,Changed,Other debt,"44,561"
+Debt collection,Other debt,Same,Debt collection,Same,Other debt,"8,541"
+Debt collection,Payday loan,Same,Debt collection,Changed,Payday loan debt,"7,574"
+Debt collection,Payday loan debt,Same,Debt collection,Same,Payday loan debt,897
+Debt collection,Private student loan debt,Same,Debt collection,Same,Private student loan debt,470
+"Money transfer, virtual currency, or money service",Check cashing service,Same,"Money transfer, virtual currency, or money service",Same,Check cashing service,51
+"Money transfer, virtual currency, or money service",Debt settlement,Same,"Money transfer, virtual currency, or money service",Same,Debt settlement,56
+"Money transfer, virtual currency, or money service",Domestic (US) money transfer,Same,"Money transfer, virtual currency, or money service",Same,Domestic (US) money transfer,631
+"Money transfer, virtual currency, or money service",Foreign currency exchange,Same,"Money transfer, virtual currency, or money service",Same,Foreign currency exchange,20
+"Money transfer, virtual currency, or money service",International money transfer,Same,"Money transfer, virtual currency, or money service",Same,International money transfer,475
+"Money transfer, virtual currency, or money service",Mobile or digital wallet,Same,"Money transfer, virtual currency, or money service",Same,Mobile or digital wallet,403
+"Money transfer, virtual currency, or money service",Money order,Same,"Money transfer, virtual currency, or money service",Same,Money order,44
+"Money transfer, virtual currency, or money service",Refund anticipation check,Same,"Money transfer, virtual currency, or money service",Same,Refund anticipation check,17
+"Money transfer, virtual currency, or money service",Traveler's check or cashier's check,Same,"Money transfer, virtual currency, or money service",Same,Traveler's check or cashier's check,63
+"Money transfer, virtual currency, or money service",Virtual currency,Same,"Money transfer, virtual currency, or money service",Same,Virtual currency,453
+Money transfers,Domestic (US) money transfer,Changed,"Money transfer, virtual currency, or money service",Same,Domestic (US) money transfer,"2,584"
+Money transfers,International money transfer,Changed,"Money transfer, virtual currency, or money service",Same,International money transfer,"2,770"
+Mortgage,Conventional adjustable mortgage (ARM),Same,Mortgage,Changed,Conventional home mortgage,"25,382"
+Mortgage,Conventional fixed mortgage,Same,Mortgage,Changed,Conventional home mortgage,"70,617"
+Mortgage,Conventional home mortgage,Same,Mortgage,Same,Conventional home mortgage,"8,065"
+Mortgage,FHA mortgage,Same,Mortgage,Same,FHA mortgage,"26,615"
+Mortgage,Home equity loan or line of credit,Same,Mortgage,Changed,Home equity loan or line of credit (HELOC),"11,626"
+Mortgage,Home equity loan or line of credit (HELOC),Same,Mortgage,Same,Home equity loan or line of credit (HELOC),"1,051"
+Mortgage,Other mortgage,Same,Mortgage,Changed,Other type of mortgage,"86,633"
+Mortgage,Other type of mortgage,Same,Mortgage,Same,Other type of mortgage,"3,421"
+Mortgage,Reverse mortgage,Same,Mortgage,Same,Reverse mortgage,"2,340"
+Mortgage,Second mortgage,Same,Mortgage,Same,Second mortgage,662
+Mortgage,VA mortgage,Same,Mortgage,Same,VA mortgage,"5,782"
+Other financial service,Check cashing,Changed,"Money transfer, virtual currency, or money service",Changed,Check cashing service,266
+Other financial service,Credit repair,Changed,"Credit reporting, credit repair services, or other personal consumer reports",Changed,Credit repair services,102
+Other financial service,Debt settlement,Changed,"Money transfer, virtual currency, or money service",Same,Debt settlement,333
+Other financial service,Foreign currency exchange,Changed,"Money transfer, virtual currency, or money service",Same,Foreign currency exchange,58
+Other financial service,Money order,Changed,"Money transfer, virtual currency, or money service",Same,Money order,144
+Other financial service,Refund anticipation check,Changed,"Money transfer, virtual currency, or money service",Same,Refund anticipation check,68
+Other financial service,Traveler’s/Cashier’s checks,Changed,"Money transfer, virtual currency, or money service",Changed,Traveler's check or cashier's check,88
+Payday loan,NULL (missing),Changed,"Payday loan, title loan, or personal loan",Same,NULL (missing),"5,546"
+"Payday loan, title loan, or personal loan",Installment loan,Same,"Payday loan, title loan, or personal loan",Same,Installment loan,853
+"Payday loan, title loan, or personal loan",Pawn loan,Same,"Payday loan, title loan, or personal loan",Same,Pawn loan,11
+"Payday loan, title loan, or personal loan",Payday loan,Same,"Payday loan, title loan, or personal loan",Same,Payday loan,723
+"Payday loan, title loan, or personal loan",Personal line of credit,Same,"Payday loan, title loan, or personal loan",Same,Personal line of credit,452
+"Payday loan, title loan, or personal loan",Title loan,Same,"Payday loan, title loan, or personal loan",Same,Title loan,206
+Prepaid card,Electronic Benefit Transfer / EBT card,Changed,Credit card or prepaid card,Changed,Government benefit card,12
+Prepaid card,General purpose card,Changed,Credit card or prepaid card,Changed,General-purpose prepaid card,"1,752"
+Prepaid card,Gift or merchant card,Changed,Credit card or prepaid card,Changed,Gift card,402
+Prepaid card,Government benefit payment card,Changed,Credit card or prepaid card,Changed,Government benefit card,389
+Prepaid card,ID prepaid card,Changed,Credit card or prepaid card,Changed,Student prepaid card,207
+Prepaid card,Mobile wallet,Changed,"Money transfer, virtual currency, or money service",Changed,Mobile or digital wallet,418
+Prepaid card,Other special purpose card,Same,Prepaid card,Same,Other special purpose card,191
+Prepaid card,Payroll card,Changed,Credit card or prepaid card,Same,Payroll card,411
+Prepaid card,Transit card,Same,Prepaid card,Same,Transit card,37
+Student loan,Federal student loan servicing,Same,Student loan,Same,Federal student loan servicing,"13,911"
+Student loan,Non-federal student loan,Same,Student loan,Changed,Private student loan,"22,283"
+Student loan,Private student loan,Same,Student loan,Same,Private student loan,"2,418"
+Vehicle loan or lease,Lease,Same,Vehicle loan or lease,Same,Lease,443
+Vehicle loan or lease,Loan,Same,Vehicle loan or lease,Same,Loan,"2,429"
+Vehicle loan or lease,Title loan,Same,Vehicle loan or lease,Same,Title loan,1
+Virtual currency,Domestic (US) money transfer,Same,Virtual currency,Same,Domestic (US) money transfer,17
+Virtual currency,International money transfer,Same,Virtual currency,Same,International money transfer,1
